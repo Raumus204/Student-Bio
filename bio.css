@@ -1,0 +1,27 @@
+
+header {
+    text-align: center;
+    background: black;
+    padding: 20px;
+}
+
+header > h1 {
+    color:white;
+    text-align:center;
+}
+
+main {
+    text-align:center;
+}
+
+.self-img {
+
+    text-align: center;
+    width: 200px;
+    height: auto;
+
+}
+
+p {
+    text-align: center;
+}
